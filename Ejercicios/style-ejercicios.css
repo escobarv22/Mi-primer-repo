@@ -1,0 +1,102 @@
+/* 
+.container h1 { - EJERCICIO #1
+    color: blue;
+    }
+ div h2 {
+    color: white;
+    background-color: blue;
+    }
+
+div span {
+    font-size: 200%;
+} */
+
+
+/* #special { - EJERCICIO #2
+    background-color: yellow;
+}
+
+.alert {
+    border: 1px grey solid;
+}
+
+.stop {
+    background-color: red;
+}
+
+.go {
+    background-color: green;
+} */
+
+/* .container a { - EJERCICIO #3
+    color: blue;
+    text-decoration: none;
+}
+
+.container a:hover {
+    text-decoration: none;
+    color: orange;
+}
+
+a::active {
+    text-decoration: underline;
+    color: green;
+}
+
+.container > :first-child {
+    font-size: 150%;
+    color: red;
+  }
+  .container >:first-child::first-line {
+    color: black;
+  }
+
+  tbody tr:nth-child(even) {
+    background-color: #333;
+    color: white;
+    margin-left: 0px;
+  }
+
+  tbody {
+    display: grid;
+  }
+  tbody tr td {
+    width: 100px;
+   }
+
+tbody tr th {
+  width: 80px;
+ }
+
+ tbody tr th {
+    width: 100px;
+    display: inline-flex;
+ } */
+
+ /* h2 + p { - EJERCICIO #4
+    color: red;
+ }
+
+ ul.list > li {
+    list-style: none;
+    border-bottom: 1px solid grey;
+  } */
+
+  /* li { - EJERCICIO #5
+    margin: 3px;
+    border: 5px solid grey;
+    padding: 10px;
+    list-style: none;
+}
+
+li:nth-of-type(1) {
+    border: 5px blue solid;
+   }
+
+   li:nth-of-type(2) {
+    border: 5px pink solid;
+   }
+
+li:nth-of-type(3),li:nth-of-type(4) {
+   border: 5px orange solid;
+  } */

@@ -1,0 +1,39 @@
+:root {
+    --primary-color:  crimson;
+    --secundary-color: rgb(252, 111, 140);
+    --title-size: 4rem;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html {
+    font-size: 62.5%;
+}
+
+header {
+    width: 100vw;
+    height: 15vh;
+    background-color: crimson;
+}
+main {
+    font-size: 1.8rem;
+    background-color: antiquewhite;
+    width: 100vw;
+    height: 75vh;
+}
+
+h1 {
+    font-size: var(--title-size);
+    color: var(--primary-color);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+footer {
+    width: 100vw;
+    height: 10vh;
+    background-color: var(--secundary-color);
+}

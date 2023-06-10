@@ -1,0 +1,15 @@
+/* h3 ~ p { - Combinador Adyacente
+    color: blue;
+} 
+
+h2 + p { - Combinador General
+    color: brown;
+} */
+
+/* div > p { - Combinador Padre e Hijo
+    color: darkblue;
+} */
+
+/* div p { - Combinador descendiente (combinador utilizado habitualmente)
+    color: darkmagenta;
+} */
